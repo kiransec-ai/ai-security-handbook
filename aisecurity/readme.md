@@ -3,9 +3,9 @@
 # AI Security Overview
 
 # What is AI Security?
-AI Security is the practice of protecting Artificial Intelligence systems, Large Language Models (LLMs), AI Agents, training data, APIs, and supporting infrastructure from attacks, misuse, and unauthorized access.
+AI Security is the practice of protecting Artificial Intelligence systems, Large Language Models (LLMs) AI Agents, training data, APIs, and supporting infrastructure from attacks, misuse, and unauthorized access.
 
-Unlike traditional application security, AI Security must protect not only software but also:
+Unlike traditional application security, AI Security must protect not only software but also
 
 - Models
 - Prompts
